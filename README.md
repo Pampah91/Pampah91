@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="https://www.zupimages.net/up/21/32/oz3v.png"></img>
+<img src="https://www.zupimages.net/up/21/32/oz3v.png" width="80%" height="auto"></img>
 
 ### Welcome to my Github page 👋
 
