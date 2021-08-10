@@ -18,3 +18,21 @@ Here are some ideas to get you started:
 
 ### Welcome to my Github page 👋
 
+
+
+- 🔭 My name is Corentin, I'm 21 yo, French student in embedded systems at EFREI Paris
+
+- 🌱 I’m an airplane enthusiast
+
+- ⚡ If I'm not on a plane, I'm behind a radar as a virtual air traffic controller or developping things
+
+
+# Some stats about me
+
+
+![Pampah's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pampah91&show_icons=true&theme=nord)
+
+# Languages I use the most
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pampah91)](https://github.com/anuraghazra/github-readme-stats)
+
