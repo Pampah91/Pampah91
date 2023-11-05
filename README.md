@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 
 
-- 🔭 My name is Corentin, I'm 23 yo, computer engineer, freshly graduated, working for an aeronautical company
+- 🔭 My name is Corentin, I'm 24 yo, computer engineer, freshly graduated, working for an aeronautical company
 
 - 🌱 I’m an airplane enthusiast
 
